@@ -1,3 +1,3 @@
 ## Omnifood Practice
 
-![image] (demoGIF/demo.gif)
+! [image] (demoGIF/demo.gif)
