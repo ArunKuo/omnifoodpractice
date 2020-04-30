@@ -1,1 +1,3 @@
-Omnifood Practice
+## Omnifood Practice
+
+![image] (demoGIF/demo.gif)
